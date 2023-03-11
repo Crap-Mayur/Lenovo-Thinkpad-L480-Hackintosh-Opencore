@@ -11,10 +11,10 @@
 Lenovo Thinkpad L480
 - Audio Device ALC257
 - Intel i5 8250U - Whiskey Lake
-- Intel UHD620 (iGPU)
+- Intel UHD 620 (iGPU)
 - Intel Ac-8265 Wifi/Bluetooth Card
 ## What is working
-- Intel UHD620 Graphics
+- Intel UHD 620 Graphics
 - Type C Display Out Works
 - Brightness Control
 - HDMI
@@ -28,7 +28,6 @@ Lenovo Thinkpad L480
 - External USB Keyboard and Mouse
 - Sleep Works
 - Audio Working 
-- Card Reader Working 
 
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)

@@ -1,5 +1,5 @@
 Lenovo Thinkpad L480 Hackintosh Using Opencore
-![Lenovo Thinkpad L480 Ventura ](https://imgur.com/a/uNM6iBB)
+![Lenovo Thinkpad L480 Ventura] (https://imgur.com/a/uNM6iBB)
 
 ## Installation Guide Followed
  OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/
@@ -9,12 +9,13 @@ Lenovo Thinkpad L480 Hackintosh Using Opencore
 
 ## System Configuration
 Lenovo Thinkpad L480
-- Audio Device ALC3221 --> ALC282
+- Audio Device ALC257
 - Intel i5 8250U - Whiskey Lake
 - Intel UHD620 (iGPU)
 - Intel Ac-8265 Wifi/Bluetooth Card
 ## What is working
 - Intel UHD620 Graphics
+- Type C Display Out Works
 - Brightness Control
 - HDMI
 - Camera

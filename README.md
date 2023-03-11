@@ -1,5 +1,5 @@
 Lenovo Thinkpad L480 Hackintosh Using Opencore
-![Lenovo Thinkpad L480 Ventura] (https://imgur.com/a/uNM6iBB)
+![Lenovo Thinkpad L480 Ventura] (https://i.imgur.com/noEfWSz.png)
 
 ## Installation Guide Followed
  OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/

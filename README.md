@@ -29,6 +29,10 @@ Lenovo Thinkpad L480
 - Sleep Works
 - Audio Working 
 
+## Troubleshooting
+### MacOS Installer (Recovery) not showing up in OpenCore
+If OpenCore does not show you the MacOS installer (recovery) inside the boot picker. Set `HideAuxiliary` inside your config.plist to `true`.
+
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
 - [gibMacOS ](https://github.com/corpnewt/gibMacOS)

@@ -5,7 +5,7 @@
  OpenCore Install Guide https://dortania.github.io/OpenCore-Install-Guide/
  
 ## IMP FOR BOOTING
- You will Need to gen serial and add it to config.plist using Gensmbios and If OpenCore does not show you the MacOS installer (recovery) inside the boot picker. Set `HideAuxiliary`inside your config.plist to `true` or u can just press spacebar to get recovery.
+ You will Need to gen serial and add it to config.plist using Gensmbios and if Opencore does not show you the MacOS installer (recovery) inside the boot picker. Set `HideAuxiliary` inside your config.plist to `true`or u can just press spacebar to get recovery.
 
 ## System Configuration
 Lenovo Thinkpad L480
@@ -28,6 +28,7 @@ Lenovo Thinkpad L480
 - External USB Keyboard and Mouse
 - Sleep Works
 - Audio Working 
+- SdCard Reader
 
 ## References & Special thanks to
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
